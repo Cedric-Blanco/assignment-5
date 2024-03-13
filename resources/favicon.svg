@@ -3,6 +3,6 @@
     fill="green"
     stroke="yellow"
     d="M30 30 L80 30 L80 80 L30 80 L30 30"/>
-    <circle r= 50 fill="yellow">
+    <circle r= 30 fill="white" stroke ="blue">
     </circle>
     </svg>
